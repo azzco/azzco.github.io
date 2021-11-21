@@ -39,9 +39,10 @@ So back to work on the domains.
 ## Back to domain setup
 `map.azzco.xyz` isn't working at the moment. Not sure if it's nginx or if its a DNS thing.
 
-Nginx settings are a bit mysterious to me so I'm going the DNS route, which is alos a mystery... In any case I added A record to point to both IPV4 and IPV6 address with hostname `map`. I also added a srv record pointing to port 8000 and map.azzco.xyz. I just hope that that's enough. I don't know how much time it needs before changes take effect.
+Nginx settings are a bit mysterious to me so I'm going the DNS route, which is alos a mystery... In any case I added A record to point to both IPV4 and IPV6 address with hostname `map`. I also added a srv record pointing to port 8000 and map.azzco.xyz. I just hope that that's enough. 
 
-I could probably start working on other stuff in the meantime.
+I ended upp with an A record pointing the subdomain map to the same ip as the main site, proy poass in a sites available in nginx and that seems to do the trick.
+
 
 ## Theme
 I have no real idea where to start. The chosen theme seems really nice but I don't know where to begin modifying it. I know I want a navbar with links to 
