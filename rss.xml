@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title></title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Fri, 03 Dec 2021 03:06:23 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>Joplin Pages Publisher</generator>
+        <item>
+            <title><![CDATA[Testing out]]></title>
+            <guid>0bbc083988f742719df0225ee05a1846</guid>
+            <pubDate>Fri, 03 Dec 2021 02:12:17 GMT</pubDate>
+            <content:encoded><![CDATA[<h1 id="this-is-my-first-heading-on-my-first-blog-post">This is my first heading on my first blog post</h1>
+<p>Using this publish to pages plugin in joplin seems like it could be a breeze. I can pump out some posts before I mess with the theme and get something rolling. Will it integrate well with jekyll? Can I get something nice for the dnd journals?</p>
+<p>I have no idea but it
+s a start and I just want to get started. I wonder how linked images will look. Might need to change my cloud serbice to something other than… What am I currently using again? Dropbox?</p>
+<p>Let’s add an image so we can test this out:
+<img src="/_resources/d48a3382deda460f84f4d130d40bb95e.png" /></p>
+]]></content:encoded>
+        </item>
+    </channel>
+</rss>
