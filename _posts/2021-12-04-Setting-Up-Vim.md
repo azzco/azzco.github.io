@@ -7,10 +7,10 @@ category: Blog
 I'd like to set upp a nice environment to make blog posts more easily. Preview with `bundle exec jekyll serve --preview` and upload with git.
 
 ## Neovim
-I'd like to get into vim a bit more. Right now I'm writing in visual studio code. It works but I'd like to keep it simple. Right now I'm not sure how to create a simple file easily. Sure I can open a skeleton file and save under a different filename but there has to be an easier way to genereate a skeleton file at a new destination.
+I'd like to get into vim a bit more. Right now I'm writing in visual studio code. It works but I'd like to keep it simple. Right now I'm not sure how to create a simple file easily. Sure I can open a skeleton file and save under a different filename but there has to be an easier way to generate a skeleton file at a new destination.
 
 ## Dotfiles
-I should really start getting dotfiles up on github for all my needs. I'm switching between my normal computer, laptop and workcomputer as it is.
+I should really start getting dotfiles up on github for all my needs. I'm switching between my normal computer, laptop and work computer as it is.
 
 ## Actually, visual code
 I had a little look at the visual studio code extensions and honestly it has most of what I want for more than one purpose. Markdown preview, markdown to pdf with pandoc, actually using a template. Command line from root folder. Honestly I might actually install visual code on my linux box. The spellchecking seems awful but with some more configuring I don't think it'll pose an issue.
