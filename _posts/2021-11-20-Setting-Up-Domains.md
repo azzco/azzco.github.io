@@ -2,6 +2,7 @@
 title: More setup 
 date: 2021-11-20
 tags: jekyll git github
+category: Blog
 ---
 
 Organizing domains, subdomains and whatnot.

@@ -20,7 +20,7 @@ title                    : "Azzco's Blog"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Azzco"
-description              : "Nerdy stuff, linux, 3d printing/modeling, ttrp."
+description              : "Nerdy stuff, linux, 3d printing/modeling, ttrpg."
 url                      : "https://blog.azzco.xyz" # An amazing websitethe base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "azzco/azzco.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
