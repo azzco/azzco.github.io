@@ -19,3 +19,6 @@ Some features that Blender 3.0 provides that I think I could make use off:
     Faster render times, that's it. I need to get more into lighting and faster raytracing can not be helpfull on that front.
 
 Other than that I don't really know what's in store but taking another plunge at this point seems a little bit stupid honestly.
+
+## Train departure
+Well well well, seems like 3.0 released yesterday. Silly me thinking it would come out in January. I'm not really motivated to try out all the new features at the moment tough. I'd rather sit comfertably by my computer.

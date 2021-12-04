@@ -11,3 +11,8 @@ I'd like to get into vim a bit more. Right now I'm writing in visual studio code
 
 ## Dotfiles
 I should really start getting dotfiles up on github for all my needs. I'm switching between my normal computer, laptop and workcomputer as it is.
+
+## Actually, visual code
+I had a little look at the visual studio code extensions and honestly it has most of what I want for more than one purpose. Markdown preview, markdown to pdf with pandoc, actually using a template. Command line from root folder. Honestly I might actually install visual code on my linux box. The spellchecking seems awful but with some more configuring I don't think it'll pose an issue.
+
+If that homebrewery extension was kept up to date I'd be completely sold.
