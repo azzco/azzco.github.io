@@ -18,3 +18,6 @@ Setting up battlemaps takes time with the walls and all. There's some nice draw 
 But mostly I'm thinking about theatre of the mind moments. There's some nice animated artwork for Curse of Strahd locations that could make really nice backgrounds.
 
 Notes seem like a nice thing too. Adding books with text bits that the players can pick up and read through between sessions.
+
+## Markdown?
+I saw a markdown module for version 0.5.0, that's quite old. 
