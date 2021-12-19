@@ -2,7 +2,7 @@
 title: Update to TTS Projector Mod 
 category: TTS coding
 ---
-Someone reported that my old workshop mod for Tabletop Simulator didn't work as expected. It's been about a year since I used it myself but I think I sorted it out.
+Someone reported that my [old workshop mod](https://steamcommunity.com/sharedfiles/filedetails/?id=2164161399) for Tabletop Simulator didn't work as expected. It's been about a year since I used it myself but I think I sorted it out.
 
 # What is it?
 The mod itself is quite simple. There's three components:
