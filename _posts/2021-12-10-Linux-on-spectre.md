@@ -7,6 +7,8 @@ I've had this laptop for five months now and I'm starting to miss linux, time to
 # WSL
 Windows subsystem for linux, sure I can get some things running through that but it doesn't feel like 'home'. On my stationary I have some nice keybinds for switching desktops, bringing in a quake-style terminal and whatnot. I can't bring in yakuake with WSL, the terminal is slow (jeez bring me a couple of symbols already) and running vim through windows powershell feels more like a hack than anything.
 
+In short WSL feels quite detached from the desktop.
+
 # Dual boot
 I plan to dualboot manjaro, I'm afraid of loosing some files but it's a risk I'm willing to take. I've learned to not grow too attached to locally stored files by this point. I'm not sure how file management is these days on the windows partition but it can't be that bad right?
 
