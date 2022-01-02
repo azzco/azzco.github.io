@@ -1,6 +1,6 @@
 ---
 title: Foundry and Jitsi
-tags: FoundryVTT Blog
+category: FoundryVTT Blog
 ---
 FoundryVTT has built in P2P videoconferencing. With more players a centralised server is more beneficial compared to sending all your own information to all peers. A module for using Jitsi is available for FoundryVTT and I've explored it a bit.
 
