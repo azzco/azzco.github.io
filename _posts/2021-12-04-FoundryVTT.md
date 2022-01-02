@@ -2,7 +2,7 @@
 title: FoundryVTT
 date: 2021-12-03
 tags: D&D FoundryVTT Battlemap
-category: D&D
+category: D&D FoundryVTT
 ---
 A digital battlemap with pizazz. A little bit of a beast to learn, requires a relatively high resolution display but might be suitable for online play.
 

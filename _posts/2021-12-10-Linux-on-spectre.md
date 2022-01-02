@@ -1,6 +1,6 @@
 ---
 title: Linux on my Spectre
-category: blog
+category: Blog
 ---
 I've had this laptop for five months now and I'm starting to miss linux, time to change that.
 
@@ -10,7 +10,7 @@ Windows subsystem for linux, sure I can get some things running through that but
 In short WSL feels quite detached from the desktop.
 
 # Dual boot
-I plan to dualboot manjaro, I'm afraid of loosing some files but it's a risk I'm willing to take. I've learned to not grow too attached to locally stored files by this point. I'm not sure how file management is these days on the windows partition but it can't be that bad right?
+I plan to dual boot manjaro, I'm afraid of loosing some files but it's a risk I'm willing to take. I've learned to not grow too attached to locally stored files by this point. I'm not sure how file management is these days on the windows partition but it can't be that bad right?
 
 # Office
 I do have a windows office 365 subscription, I barely use it and I'm leaning more towards open source solutions anyway. Excel is the exception, I use it in work quite a bit and I'm familiar with it. I've heard good things about **R** But it's not something I've delved into just yet.
