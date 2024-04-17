@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Azzco.xyz</title>
+    <link>https://www.azzco.xyz/</link>
+    <description>Recent content on Azzco.xyz</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 14 Apr 2024 03:10:11 +0200</lastBuildDate>
+    <atom:link href="https://www.azzco.xyz/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Tank Consumables</title>
+      <link>https://www.azzco.xyz/posts/tank-consumables/</link>
+      <pubDate>Sun, 14 Apr 2024 03:10:11 +0200</pubDate>
+      <guid>https://www.azzco.xyz/posts/tank-consumables/</guid>
+      <description>Test Link to heading Något content kanske?
+Om jag lägger till lite mer då?
+20 Spirit of Zanza Binds when picked up Use: Increases the player&#39;s Spirit by 50 and Stamina by 50 for 2 hr. You can only have the effect of one Zanza potion at a time. Men lite text här då?
+20 Spirit of Zanza Binds when picked up Use: Increases the player&#39;s Spirit by 50 and Stamina by 50 for 2 hr.</description>
+    </item>
+  </channel>
+</rss>

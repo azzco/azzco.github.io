@@ -1,0 +1,126 @@
+
+.stack-size {
+position:relative;
+right: 0px;
+top: 5px;
+font-size: 14px;
+font-family: Arial, sans-serif;
+font-weight: bold;
+}
+.tooltip {
+display:flex
+}
+.wtti {
+  width: 30px !important;
+  height: 30px;
+  background-color: #111122;
+  /* background: rgba(17, 17, 31, 0.9); */
+  border-top: 1px solid #ccc;
+  border-right: 1px solid #777;
+  border-bottom: 1px solid #777;
+  border-left: 1px solid #ccc;
+    -moz-border-radius: 0.55ex;
+  -moz-box-shadow: black 1px 1px 5px;
+  -webkit-box-shadow: black 1px 1px 5px;
+  -webkit-border-radius: 0.55ex;
+  text-align: right;
+  font-family: Verdana,sans-serif;
+  color: white;
+  background-size: contain;
+  background-image: url("https://i.imgur.com/znqb9PK.png")
+}
+
+.wtt {
+  max-width: 340px !important;
+  background-color: #111122;
+  /* background: rgba(17, 17, 31, 0.9); */
+  border-top: 1px solid #ccc;
+  border-right: 1px solid #777;
+  border-bottom: 1px solid #777;
+  border-left: 1px solid #ccc;
+  color: #fff;
+  float: left;
+  font-family: Verdana,sans-serif;
+  font-size: 13px;
+  line-height: 17px;
+  max-width: 40em;
+  padding: 7px;
+  text-align: left;
+    -moz-border-radius: 0.55ex;
+  -moz-box-shadow: black 1px 1px 5px;
+  -webkit-box-shadow: black 1px 1px 5px;
+  -webkit-border-radius: 0.55ex;
+  z-index: 0;
+}
+
+.title {font-size:110%;}
+
+#uncommon {color:#33ff00;}
+
+.wtt img {
+position: relative;
+left:-40px;
+margin-right: -56px;
+margin-top: -60px;
+}
+
+.external-links {
+  display:flex;
+}
+
+
+#inv_stone_sharpeningstone_05 {background-image: url("https://i.imgur.com/hQvBvUg.png")}
+#inv_stone_weightstone_05 {background-image: url("https://i.imgur.com/taMqnBy.png")}
+#inv_stone_02 {background-image: url("https://i.imgur.com/DWesM4y.png")}
+#inv_misc_monsterscales_07 {background-image: url("https://i.imgur.com/9tbn9Pj.png")}
+#inv_drink_03 {background-image: url("https://i.imgur.com/mTJ6iae.png")}
+#inv_drink_07 {background-image: url("https://i.imgur.com/rA9SWdY.png")}
+#inv_drink_milk_05 {background-image: url("https://i.imgur.com/WfOqPc7.png")}
+#inv_drink_waterskin_01 {background-image: url("https://i.imgur.com/eX86Sbx.png")}
+#inv_drink_waterskin_05 {background-image: url("https://i.imgur.com/qDiBZEP.png")}
+#inv_misc_bomb_03 {background-image: url("https://i.imgur.com/dNqpfnf.png")}
+#inv_misc_food_08 {background-image: url("https://i.imgur.com/opj1isB.png")}
+#inv_misc_food_09 {background-image: url("https://i.imgur.com/6geeYTM.png")}
+#inv_misc_food_63 {background-image: url("https://i.imgur.com/hmHxG8S.png")}
+#inv_misc_fish_13 {background-image: url("https://i.imgur.com/FloShsU.png")}
+#inv_misc_food_22 {background-image: url("https://i.imgur.com/k2cAn1D.png")}
+#inv_misc_food_64 {background-image: url("https://i.imgur.com/gJyCzq9.png")}
+#inv_misc_dust_02 {background-image: url("https://i.imgur.com/jVejsTr.png")}
+#inv_mushroom_11 {background-image: url("https://i.imgur.com/UVoXWpl.png")}
+#inv_potion_01 {background-image: url("https://i.imgur.com/gZOfzGT.png")}
+#inv_potion_03 {background-image: url("https://i.imgur.com/NAndmXF.png")}
+#spell_fire_selfdestruct {background-image: url("https://i.imgur.com/u8qDu3I.png")}
+#inv_potion_04 {background-image: url("https://i.imgur.com/JGqwsMM.png")}
+#inv_potion_11 {background-image: url("https://i.imgur.com/1ANm5Zi.png")}
+#inv_potion_12 {background-image: url("https://i.imgur.com/33o6DrC.png")}
+#inv_potion_20 {background-image: url("https://i.imgur.com/UbGnTPN.png")}
+#inv_potion_22 {background-image: url("https://i.imgur.com/vufTUog.png")}
+#inv_potion_23 {background-image: url("https://i.imgur.com/5gr4BYj.png")}
+#inv_potion_24 {background-image: url("https://i.imgur.com/sGfAXKi.png")}
+#inv_potion_25 {background-image: url("https://i.imgur.com/VQvI7xv.png")}
+#inv_potion_28 {background-image: url("https://i.imgur.com/YTQnr8j.png")}
+#inv_potion_30 {background-image: url("https://i.imgur.com/yR4I9d1.png")}
+#inv_potion_32 {background-image: url("https://i.imgur.com/3OMD7An.png")}
+#inv_potion_33 {background-image: url("https://i.imgur.com/qPDy8j2.png")}
+#inv_potion_40 {background-image: url("https://i.imgur.com/rB4nTDv.png")}
+#inv_potion_41 {background-image: url("https://i.imgur.com/p85MuY2.png")}
+#inv_potion_43 {background-image: url("https://i.imgur.com/Um0YrK5.png")}
+#inv_potion_46 {background-image: url("https://i.imgur.com/WxtKh74.png")}
+#inv_potion_54 {background-image: url("https://i.imgur.com/gj8Kjh6.jpeg")}
+#inv_potion_61 {background-image: url("https://i.imgur.com/u59jc8n.png")}
+#inv_potion_62 {background-image: url("https://i.imgur.com/5en8lBc.png")}
+#inv_potion_65 {background-image: url("https://i.imgur.com/Tj4Gkt6.png")}
+#inv_potion_66 {background-image: url("https://i.imgur.com/3oe8QT3.png")}
+#inv_potion_67 {background-image: url("https://i.imgur.com/chf5lJL.png")}
+#inv_potion_69 {background-image: url("https://i.imgur.com/UQxsZlT.png")}
+#inv_potion_74 {background-image: url("https://i.imgur.com/1bjgiwl.png")}
+#inv_potion_75 {background-image: url("https://i.imgur.com/wiinP55.png")}
+#inv_potion_76 {background-image: url("https://i.imgur.com/5zsiUu3.png")}
+#inv_potion_83 {background-image: url("https://i.imgur.com/g7SPUFw.png")}
+#inv_potion_92 {background-image: url("https://i.imgur.com/7Mr25Uh.png")}
+#inv_potion_95 {background-image: url("https://i.imgur.com/86XQQo4.png")}
+#inv_potion_97 {background-image: url("https://i.imgur.com/xnPiprW.png")}
+#inv_potion_99 {background-image: url("https://i.imgur.com/FgAOjTy.png")}
+#inv_potion_100 {background-image: url("https://i.imgur.com/CHUanYG.png")}
+#inv_potion_104 {background-image: url("https://i.imgur.com/Pn28EiM.png")}
+#inv_potion_105 {background-image: url("https://i.imgur.com/Yv0IhAw.png")}
