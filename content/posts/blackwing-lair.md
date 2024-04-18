@@ -33,7 +33,7 @@ Swiftness Potion
 Trash efter Vaelstrazs
 
 {{< tabgroup >}}
-{{< tab name="Halls of Strife" >}}
+{{< tab name="Death Talon pack" >}}
 Death Talon grupper efter Vaelstrazs
 - ![Skull](https://i.imgur.com/wpPEzjA.png) Death Talon Flamescale
 - ![Cross](https://i.imgur.com/SHcAO5b.png) Death Talon Flamescale
